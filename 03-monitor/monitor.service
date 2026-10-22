@@ -1,0 +1,12 @@
+[Unit]
+Description=Process monitor (monitor.sh)
+After=multi-user.target
+
+[Service]
+Type=simple
+User=zatpe
+ExecStart=/home/zatpe/monitor/monitor.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
