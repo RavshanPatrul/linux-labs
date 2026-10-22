@@ -19,3 +19,5 @@
 | 8 | Резервное копирование | [08-backup](08-backup/README.md) |
 | 9 | Установка и настройка веб-сервера | [09-webserver](09-webserver/README.md) |
 | 10 | Логи | [10-logs](10-logs/README.md) |
+
+**Проект (выступление):** [IPTables — межсетевой экран Linux](project-iptables/README.md) — слайды, PDF и текст выступления.
